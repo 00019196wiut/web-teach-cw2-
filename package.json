@@ -1,0 +1,16 @@
+{
+  "name": "web-teach-cw2-",
+  "version": "1.0.0",
+  "description": "webtech cw2",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "00019196",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "pug": "^3.0.2"
+  }
+}
